@@ -45,7 +45,7 @@ My patience and my sanity
 
 LINK:
 
- https://katvela24.github.io/Katherine-Portfolio/
+ https://katvela24.github.io/passwordgenerator/
 
 SCREENSHOT:
 
