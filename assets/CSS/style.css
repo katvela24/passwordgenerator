@@ -3,7 +3,7 @@
 *::after {
   box-sizing: border-box;
 }
-
+/* styling begins here */
 html,
 body,
 .wrapper {
@@ -16,7 +16,7 @@ body {
   font-family: sans-serif;
   background-color: #f9fbfd;
 }
-
+/* div class wrapper */
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
@@ -29,7 +29,7 @@ header {
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
+/* header 2 titled generate a password styled here */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -71,7 +71,7 @@ header {
   display: block;
   clear: both;
 }
-
+/* button styling here */
 .btn {
   border: none;
   background-color: hwb(130 32% 26%);
@@ -96,7 +96,7 @@ button[disabled] {
 .float-right {
   float: right;
 }
-
+/* placeholder box styling */
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -117,7 +117,7 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
-
+/* styling for different devices here */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;

@@ -1,39 +1,29 @@
 TITLE:
 
-Refactoring Challenge: Horiseon SEO and Social Media HTML & CSS Sheet
+Password Generator with strong password criteria
 
 DESCRIPTION:
 
-The purpose of this challenge is to refactor the base code for a made-up company called Horiseon.
+The purpose of this challenge is to create a password generator with strong security features for an employer who has access to sensitive data.
 
 ACCEPTANCE CRITERIA:
 
-There are 5 things to clean-up in both the HTML & CSS:
-1.  Logical Structure to HTML elements
-2.  Code follows proper usage of semantic HTML elements
-3.  Heading attributes fall in sequential order
-4.  Image elements contain accessible alt attributes
-5.  Title element is concise and descriptive
-
-*****6****** As a bonus, I tried shorthanding the margins into one line, with the clockwise method i.e. 0px,0px,20px,0px
+Create a prompt when the user clicks on the button to generate a password
+The user is able to complete the promptsfor password criteria
+One of the prompts asks the user to select the length of the password of at least 8 characters and no more than 128 characters
+The user is also able to pick whether or not to use lowercase, uppercase, numeric, and/or special characters
+Each prompt is validated after at least one character type is selected
+After answering all prompts, the password is then generated
+The password is either displayed in an alert or written to the page
 
 TASKS COMPLETED:
 
--Eliminated redundant div sections
--Renamed div classes
--Removed CSS classes
--Renamed the main photo to a more adequate representation -from here to digital-marketing-meeting-
--Assigned a proper website title so SEO searches are maximized
--h2 tags and classes
--Added alt attributes
--Removed Footer
--Fixed links in the header section
+-Modified the code to include necessary variables, functions, and conditional statements.
 
 CREDITS:
 
 While this job was peformed with care by yours truly, I cannot let the assistance of my classmates, AI, learning assistants, TAs, and professor go unnoticed.
 
-Link to outside help for shorthand & other refracting tips: https://www.smashingmagazine.com/2008/08/7-principles-of-clean-and-optimized-css-code/
 
 I look forward to your feedback. Be brutal.
 
@@ -52,3 +42,11 @@ Lots of Ctrl Z
 TESTS:
 
 My patience and my sanity   
+
+LINK:
+
+ https://katvela24.github.io/Katherine-Portfolio/
+
+SCREENSHOT:
+
+![ss](Assets/Images/screenshot.png) 
