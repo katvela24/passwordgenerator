@@ -49,4 +49,4 @@ LINK:
 
 SCREENSHOT:
 
-![ss](Assets/Images/screenshot.png) 
+![ss](assets/Images/generate-password-screenshot.png) 
